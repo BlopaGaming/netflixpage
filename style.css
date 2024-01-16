@@ -1,0 +1,33 @@
+#NEW {
+    background-color: red;
+    color: white;
+    border-radius: 17px;
+    font-size: 12.8px;
+    font-style: normal;
+    text-align: center;
+    line-height: normal;
+    font-family: Helvetica;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+padding: 3.188px 8.125px 2.188px 8px;
+align-items: flex-start;
+width: 34px;
+height: 14px;
+}
+#Plans{
+    color: #333;
+font-family: Helvetica;
+font-size: 17.6px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#Prix{
+    color: #333;
+font-family: Helvetica;
+font-size: 20.8px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
